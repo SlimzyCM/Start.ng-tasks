@@ -1,4 +1,4 @@
-# startng_task2
+# Startng Tasks
 
 This respository is created for my Start.ng task that I will carry out in the course of the internship, currently just pushed in task 2,
 which is a HTML made up of content from my CV.
