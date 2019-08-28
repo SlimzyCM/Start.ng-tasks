@@ -6,5 +6,10 @@ My name is Okobia Chidi Michael, with code shn01951
 
 ## Gratitude
 I also want to thank Flutterwave for their help and support in making this internship a reality, Organizers of Start.ng and HNG, you guys 
-are the best. here a link to my twitter post, couldnt include lucid because the site is down at the moment  
-https://twitter.com/SlimzyCM/status/1166566332676169728?s=20
+are the best. 
+
+### Twitter link
+Here's a link to my twitter post "https://twitter.com/SlimzyCM/status/1166566332676169728?s=20" 
+
+#### Lucid Blog
+link to my Lucid blog post "https://lucid.blog/SlimzyCM/post/teach-yourself-to-code-the-series-101-html-38f"
