@@ -4,7 +4,8 @@ This respository is created for my Start.ng task that I will carry out in the co
 which is a HTML made up of content from my CV.
 
 Name: Okobia Chidi Michael
-code: shn01951
+
+Code: shn01951
 
 ## Gratitude
 I also want to thank Flutterwave for their help and support in making this internship a reality, Organizers of Start.ng and HNG, you guys 
