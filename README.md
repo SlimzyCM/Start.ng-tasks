@@ -1,6 +1,6 @@
 # Startng Tasks
 
-This respository is created for my Start.ng task that I will carry out in the course of the internship
+Added CSS to my HTML CV to make it look like a modern portfolio.
 
 Name: Okobia Chidi Michael
 
