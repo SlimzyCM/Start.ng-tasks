@@ -178,19 +178,37 @@ form{
 .namelabel{
 	font-size: 2.3em;
 	font-weight: bold;
-	margin: 10px 20px 10px 10px;
+	margin: 10px 30px 10px 10px;
+
+}
+.emaillabel{
+	font-size: 2.3em;
+	font-weight: bold;
+	margin: 10px 30px 10px 10px;
 
 }
 
-input{
+.emaillabel input{
 	height: 20px;
 	padding: 7px;
 	width: 50%;
-	margin-left: 95px; 
+	margin-left: 102px; 
+	margin-bottom: 10px;
+	border-radius: 6px;
+	border: none;
+	margin-top: 0;	
+}
+
+.namelabel input{
+	height: 20px;
+	padding: 7px;
+	width: 50%;
+	margin-left: 100px; 
 	margin-bottom: 10px;
 	border-radius: 6px;
 	border: none;
 	margin-top: 0;
+	
 }
 .messagelabel{
 	font-size: 2.3em;
@@ -203,19 +221,23 @@ input{
 textarea{
 	width: 50%;
 	height: 200px;
-	margin-left: 52px;
+	margin-left: 57px;
 	margin-bottom: 10px;
 	vertical-align: top;
 	border: none;
-	border-radius: 6px:;
+	border-radius: 6px;
 }
+
+
 .button{
-	min-width: 420px;
+	width: 100%;
+	min-width: 50px;
+	max-width: 422px;
 	background-color: green;
 	padding: 10px;
 	border: none;
 	border-radius: 4px;
-	margin-left: 214px;
+	margin-left: 220px;
 	font-size: 18px;
 	color: white;
 }
@@ -255,16 +277,70 @@ small{
 		
 	 }
 
-	 .button{
-	width: 250px;
-	background-color: green;
-	padding: 10px;
-	border: none;
-	border-radius: 4px;
-	margin-left: 215px;
-	font-size: 18px;
-	color: white;
-}
+	.namelabel{
+	font-size: 2.3em;
+	font-weight: bold;
+	margin-top: 0px;
+	margin: 0;
+	}
+	.emaillabel{
+		font-size: 2.3em;
+		font-weight: bold;
+		margin: 0;
+
+	}
+
+	.emaillabel input{
+		height: 20px;
+		padding: 7px;
+		width: 50%;
+		margin-left: 85px; 
+		margin-bottom: 10px;
+		border-radius: 6px;
+		border: none;
+		margin-top: -50px;	
+	}
+
+	.namelabel input{
+		height: 20px;
+		padding: 7px;
+		width: 50%;
+		margin-left: 80px;
+		margin-bottom: 10px;
+		border-radius: 6px;
+		border: none;
+		margin-top: -50px;	
+		
+	}
+	.messagelabel{
+		font-size: 2.3em;
+		font-weight: bold;
+		margin: 0;
+	}
+
+
+	textarea{
+		width: 52%;
+		height: 200px;
+		margin-left: 40px;
+		margin-bottom: 10px;
+		vertical-align: top;
+		border: none;
+		border-radius: 6px;
+	}
+
+
+	.button{
+		width: 53%;
+		background-color: green;
+		padding: 10px;
+		border: none;
+		border-radius: 4px;
+		margin-left: 195px;
+		font-size: 18px;
+		color: white;
+	}
+	 
 
 }
 
